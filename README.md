@@ -5,7 +5,7 @@
 - Ingredientes:
 
   *  1 taza grande
-  *  4 cucharadas de harina
+  **  4 cucharadas de harina
   *  4 cucharadas de azúcar
   *  2 cucharadas de cacao
   *  1 huevo grande
